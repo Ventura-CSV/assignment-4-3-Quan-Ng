@@ -12,7 +12,6 @@ def main():
         result.append(remainder)
         number = number // 2
         
-    result.append(number)
         
         
         
