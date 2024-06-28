@@ -7,7 +7,7 @@ def main():
     ########################################
     """
 
-    while number > 2:
+    while number > 0:
         remainder = number % 2
         result.append(remainder)
         number = number // 2
