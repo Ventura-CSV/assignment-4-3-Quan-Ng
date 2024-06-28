@@ -7,6 +7,9 @@ def main():
     ########################################
     """
 
+    for (i > 0):
+        
+    
     print(*result)
     ########################################
     # Do not delete the return statement
