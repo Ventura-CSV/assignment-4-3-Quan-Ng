@@ -7,7 +7,13 @@ def main():
     ########################################
     """
 
-    for (i > 0):
+    while x >= 2:
+        remainder = x % 2
+        result.append(remainder)
+        x = x // 2
+        
+        result.append(x)
+        
         
     
     print(*result)
