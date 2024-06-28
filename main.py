@@ -7,16 +7,17 @@ def main():
     ########################################
     """
 
-    while number >= 2:
+    while number > 2:
         remainder = number % 2
         result.append(remainder)
         number = number // 2
         
-        result.append(number)
+    result.append(number)
+        
         
         
     
-    print(*result)
+    print(*result )
     ########################################
     # Do not delete the return statement
     ########################################
