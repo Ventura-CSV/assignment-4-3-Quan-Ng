@@ -7,12 +7,12 @@ def main():
     ########################################
     """
 
-    while x >= 2:
-        remainder = x % 2
+    while number >= 2:
+        remainder = number % 2
         result.append(remainder)
-        x = x // 2
+        number = number // 2
         
-        result.append(x)
+        result.append(number)
         
         
     
